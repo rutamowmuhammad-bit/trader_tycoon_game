@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "395764986914",
+    "project_id": "trader-tycoon-game",
+    "storage_bucket": "trader-tycoon-game.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395764986914:android:313030afb494090743c67b",
+        "android_client_info": {
+          "package_name": "com.example.trader_tycoon_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395764986914-1h9kak0q3ng5lni83tls3s22hc3m7gl4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trader_tycoon_game",
+            "certificate_hash": "72f70cb17833d8826af7eea643adce9f5c9177cd"
+          }
+        },
+        {
+          "client_id": "395764986914-to6nl4o2kml702t7jtosg62cnvogpr9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJWgH_hBS5F3MUWAt7WgdK6jKFOOWCJvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395764986914-to6nl4o2kml702t7jtosg62cnvogpr9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
